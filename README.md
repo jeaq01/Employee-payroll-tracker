@@ -3,13 +3,17 @@
 ## A payroll tracker that could allow a company to track first name, last name, and salary of employees.
 
 # Usage
-## The website is meant to display all employees of a company it can also sort them into diferent categories and even select one randomly based on salary 
+## The website is meant to display all employees of a company calculate the total salary of them, it can also sort them into diferent categories and even select one randomly based on salary 
 
 # Aplication
  
-![image](https://github.com/jeaq01/Employee-payroll-tracker/assets/168700847/b3a776ec-2f6c-4753-bb68-29d04edd4c66)
+
 
  
+
+https://github.com/jeaq01/Employee-payroll-tracker/assets/168700847/f091dfdb-bcc2-4daf-a578-e3aa27ab11d4
+
+
 
  Website: https://jeaq01.github.io/Employee-payroll-tracker/
 
